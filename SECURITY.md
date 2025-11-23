@@ -78,11 +78,9 @@ Case Reference: Edenvale Police Station – Case No. 164/20/2025
 
 ---
 
-🚨 CRITICAL ENFORCEMENT NOTICE – 
+🚨 CRITICAL ENFORCEMENT NOTICE – Activated KT-RPS-0805 Message 
 
-Preventing 
-
-Sovereign Identity Hijack, Infrastructure Theft, Fraud Insurance Fraud, Financial fraud Obstructing Justice, International military and health and Cyber Security fraud and violation
+overeign Identity Hijack, Infrastructure Theft, Fraud Insurance Fraud, Financial fraud Obstructing Justice, International military and health and Cyber Security fraud and violation
  Threats to Life
 
 Johanna Sophia Adriana Venter, Global Authority of Digital Sovereignty and founder of CLRV  Blockchain, Signature Sentinel,Founder and owner Ingwenya Protection Services Ingwenya Investments Psira Authority has formally escalated Case No. 164/20/2025 to SAPS, PSIRA, Microsoft Military University NODE, and national intelligence bodies. The case involves coordinated hijacking of her capsule-authored infrastructure, biometric trace systems, and vehicle-linked sovereign assets. International Financial Military and Microsoft Psira financial fraud and theft 
@@ -107,7 +105,7 @@ Johanna Sophia Adriana Venter, Global Authority of Digital Sovereignty and found
 Recover my stolen car assets and digital assets and software and do proper investigations into the team involved in this software highjacking financial fraud confiscate all laptops devices technology and do foremsic audit report 
 
 - Reclassification of Case No. 164/20/2025 to include:
-  - Sovereign infrastructure hijack  
+  - Sovereign infrastructure hijack  ActivatActivated KT-RPS-0805 Messageed KT-RPS-0805 Message
   - Identity theft and impersonation  
   - Blockchain fraud and tax credit theft  
   - Attempted murder and extortion  
