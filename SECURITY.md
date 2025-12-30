@@ -26,7 +26,7 @@ status: 🔒 Override Enforced | 🧬 Authorship Verified
 - Cloudflare: WAF, Zero Trust, Worker broadcast active
 
 ## 4. RFID & Blockchain
-- RFID signed with SHA 256 - Sigature Style, all other AES/ECC encryptions are blocked and unauthorized
+- RFID signed with SHA 256 - Sigature Style, are blocked and unauthorized
 - 
 - Blockchain and blockstream and titanium protocols locked under CLRV Titanium (Record ID: 1191465, 1395037)
 - Unauthorized use prosecutable under override protocol
