@@ -28,7 +28,7 @@ status: 🔒 Override Enforced | 🧬 Authorship Verified
 - Cloudflare: WAF, Zero Trust, Worker broadcast active
 
 ## 4. RFID & Blockchain
-- RFID tags encrypted with AES/ECC
+- RFID tags encrypted
 - Blockchain protocols locked under CLRV Titanium (Record ID: 1191465, 1395037)
 - Unauthorized use prosecutable under override protocol
 
